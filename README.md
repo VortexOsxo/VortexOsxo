@@ -5,7 +5,7 @@ A fourth year student at Polytechnique de Montreal in Software Engineering.
 
 I’m naturally curious, and it shows in my software journeys: I’ve worked on video games, full stack, algorithms, computer graphics, AI, backend, developer tools, testing. I’m always excited to explore new topics and start new projects… finishing them, though, is another story 😅.  
 
-I enjoy finding and implementing cool and clever patterns in software projects, and I find it incredibly gratifying. The moment when it finally works as expected or when the code is finally clean makes all the hours spent bashing my head on the desk trying to figure it out totally worth it.  
+I enjoy finding and implementing cool and clever patterns in software projects. The moment when it finally works as expected or when the code is finally clean makes all the time spent bashing my head on the desk trying to figure it out worth it.  
 
 ---
 
@@ -25,11 +25,12 @@ I enjoy finding and implementing cool and clever patterns in software projects, 
   <a href="https://github.com/VortexOsxo/manga-reader">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=manga-reader&theme=radical" width="400" height="180"/>
   </a>
-  <a href="https://github.com/VortexOsxo/lite-py-depency-injection">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/VortexOsxo/PseudoGameEngineAttemp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=PseudoGameEngineAttemp&theme=radical" width="400" height="180"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
 </p>
+
 
 ---
 
