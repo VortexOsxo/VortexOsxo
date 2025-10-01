@@ -16,8 +16,8 @@ I enjoy finding and implementing cool and clever patterns in software projects. 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=Chess&theme=radical" width="400" height="180"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/VortexOsxo/FruitQuiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=lite-py-depency-injection&theme=radical" width="400" height="180"/>
+  <a href="https://github.com/VortexOsxo/Lite-PyDi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=Lite-PyDi&theme=radical" width="400" height="180"/>
   </a>
 </p>
 
