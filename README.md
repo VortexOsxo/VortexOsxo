@@ -8,6 +8,16 @@ I’m naturally curious, and it shows in my software journeys: I’ve worked on 
 
 I enjoy finding and implementing cool and clever patterns in software projects, and I find it incredibly gratifying. The moment when it finally works as expected or when the code is finally clean makes all the hours spent bashing my head on the desk trying to figure it out totally worth it.  
 
+<p align="center">
+  <!-- GitHub Streak on top -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VortexOsxo&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VortexOsxo&show_icons=true&theme=radical" alt="GitHub stats" height="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VortexOsxo&layout=compact&theme=radical" alt="Top Langs" height="200" width="350"/>
+</p>
 
 <!--
 **VortexOsxo/VortexOsxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
