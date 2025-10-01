@@ -74,6 +74,15 @@ I enjoy finding and implementing cool and clever patterns in software projects. 
 
 ---
 
+<h3 align="center">📊 LeetCode Stats</h3>
+<p align="center"> Still working on it... <p>
+  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Osxo?ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
 <h3 align="center">📫 Reach Me</h3>
 
 <p align="center">
