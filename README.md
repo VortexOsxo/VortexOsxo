@@ -9,6 +9,31 @@ I enjoy finding and implementing cool and clever patterns in software projects, 
 
 ---
 
+<h3 align="center">📌 Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/VortexOsxo/Chess">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=Chess&theme=radical" width="400" height="180"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/VortexOsxo/FruitQuiz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=FruitQuiz&theme=radical" width="400" height="180"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/VortexOsxo/lite-py-depency-injection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=lite-py-depency-injection&theme=radical" width="400" height="180"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/VortexOsxo/manga-reader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=manga-reader&theme=radical" width="400" height="180"/>
+  </a>
+</p>
+
+
+---
+
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
