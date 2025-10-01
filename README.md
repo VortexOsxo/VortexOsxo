@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="1920" height="1080" alt="philippe_martin_background" src="https://github.com/user-attachments/assets/554a1263-31ea-42d6-b7fe-b4763f7931b2" />
+
 
 <!--
 **VortexOsxo/VortexOsxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
