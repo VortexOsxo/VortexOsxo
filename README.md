@@ -3,8 +3,6 @@
 👋 Hi, I’m Philippe!  
 A fourth year student at Polytechnique de Montreal in Software Engineering.
 
-I’m passionate about software development because of its wide applicability and its expressiveness.  
-
 I’m naturally curious, and it shows in my software journeys: I’ve worked on video games, full stack, algorithms, computer graphics, AI, backend, developer tools, testing. I’m always excited to explore new topics and start new projects… finishing them, though, is another story 😅.  
 
 I enjoy finding and implementing cool and clever patterns in software projects, and I find it incredibly gratifying. The moment when it finally works as expected or when the code is finally clean makes all the hours spent bashing my head on the desk trying to figure it out totally worth it.  
