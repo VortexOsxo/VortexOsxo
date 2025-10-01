@@ -17,20 +17,19 @@ I enjoy finding and implementing cool and clever patterns in software projects, 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/VortexOsxo/FruitQuiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=FruitQuiz&theme=radical" width="400" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=lite-py-depency-injection&theme=radical" width="400" height="180"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/VortexOsxo/lite-py-depency-injection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=lite-py-depency-injection&theme=radical" width="400" height="180"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/VortexOsxo/manga-reader">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=manga-reader&theme=radical" width="400" height="180"/>
   </a>
+  <a href="https://github.com/VortexOsxo/lite-py-depency-injection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=PseudoGameEngineAttemp&theme=radical" width="400" height="180"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 </p>
-
 
 ---
 
