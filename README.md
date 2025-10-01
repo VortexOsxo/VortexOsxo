@@ -47,6 +47,8 @@ I enjoy finding and implementing cool and clever patterns in software projects, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VortexOsxo&layout=compact&theme=radical" alt="Top Langs" height="200" width="350"/>
 </p>
 
+---
+
 <h3 align="center">📫 Reach Me</h3>
 
 <p align="center">
