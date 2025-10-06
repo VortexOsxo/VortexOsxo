@@ -13,21 +13,31 @@ I enjoy finding and implementing cool and clever patterns in software projects. 
 
 <p align="center">
   <a href="https://github.com/VortexOsxo/Chess">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=Chess&theme=radical" width="400" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=Chess&theme=radical" width="400" height="250"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/VortexOsxo/Lite-PyDi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=Lite-PyDi&theme=radical" width="400" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=Lite-PyDi&theme=radical" width="400" height="250"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/VortexOsxo/manga-reader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=manga-reader&theme=radical" width="400" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=manga-reader&theme=radical" width="400" height="250"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/VortexOsxo/Data-Structures-Playground">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=Data-Structures-Playground&theme=radical" width="400" height="250"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/VortexOsxo/boulder-peak">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=boulder-peak&theme=radical" width="400" height="250"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/VortexOsxo/PseudoGameEngineAttemp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=PseudoGameEngineAttemp&theme=radical" width="400" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VortexOsxo&repo=PseudoGameEngineAttemp&theme=radical" width="400" height="250"/>
   </a>
 </p>
 
